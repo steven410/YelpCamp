@@ -1,0 +1,19 @@
+body {
+	background: #e3e3e3;
+}
+
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+	padding: 0px;
+}
+
+.thumbnail .caption {
+	padding: 8px;
+}
+
+#delete-form {
+	display: inline;
+}
