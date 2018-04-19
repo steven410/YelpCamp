@@ -9,7 +9,7 @@ var express = require("express"),
     User = require("./models/user")
     passport = require("passport"),
     LocalStrategy = require("passport-local"),
-    methodOverride = require("method-override"),
+    methodOverride = require("method-override");
    
 //Requiring Routes
 var commentRoutes = require("./routes/comments"), 
